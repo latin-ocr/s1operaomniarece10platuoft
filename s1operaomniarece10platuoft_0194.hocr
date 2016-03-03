@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./s1operaomniarece10platuoft_0194.png"; bbox 0 0 1612 2872; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 333 451 1562 579">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 333 436 1562 551">
+     <span class='ocr_line' id='line_1_1' title="bbox 334 451 1562 504; baseline 0.006 -28"><span class='ocrx_word' id='word_1_1' title='bbox 334 478 340 483; x_wconf 60' lang='grc'><strong><em>,</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 458 451 940 494; x_wconf 48' lang='lat' dir='ltr'><strong><em>*ww</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 941 454 1562 504; x_wconf 50' lang='lat' dir='ltr'><strong><em>wvwmb-mwzgfflmt*</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 333 501 1546 579; baseline -0.008 -41"><span class='ocrx_word' id='word_1_4' title='bbox 333 506 540 579; x_wconf 27' lang='lat' dir='ltr'><strong><em>&#39;&#39;⁵1&#39;‘&amp;Q</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 527 507 730 547; x_wconf 47' lang='lat' dir='ltr'><strong><em>*51sz</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 739 521 754 533; x_wconf 48' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_7' title='bbox 779 508 889 550; x_wconf 40' lang='grc' dir='ltr'><strong><em>,αξξ</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 883 501 995 541; x_wconf 45' lang='grc' dir='ltr'><strong><em>«ἐφ’</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1000 512 1208 547; x_wconf 47' lang='lat' dir='ltr'><strong><em>«msa-agn</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1217 504 1351 551; x_wconf 47' lang='lat' dir='ltr'><strong><em>ww</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1359 513 1546 547; x_wconf 47' lang='lat' dir='ltr'><strong><em>m</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1612 2872">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1612 2872">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1612 2872; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1612 2872; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

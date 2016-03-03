@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./s1operaomniarece10platuoft_0182.png"; bbox 0 0 1612 2872; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 452 971 1317 1022">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 452 971 1317 1022">
+     <span class='ocr_line' id='line_1_1' title="bbox 452 971 1317 1022; baseline 0.003 -17"><span class='ocrx_word' id='word_1_1' title='bbox 452 973 521 1006; x_wconf 80' lang='lat' dir='ltr'><em>TA</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 553 973 663 1008; x_wconf 82' lang='grc' dir='ltr'><em>ΤΟΥ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 691 971 993 1008; x_wconf 77' lang='grc' dir='ltr'><em>ΔΙΑΛΟΓΟΥ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1027 975 1317 1022; x_wconf 79' lang='grc' dir='ltr'><em>ΠΡΟΣΩΠΑ.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 295 1038 1488 1177">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 295 1038 1488 1177">
+     <span class='ocr_line' id='line_1_2' title="bbox 295 1038 1488 1132; baseline 0.003 -22"><span class='ocrx_word' id='word_1_5' title='bbox 295 1066 641 1110; x_wconf 74' lang='grc' dir='ltr'><em>ΑΘΗΝΑΙΟΣ</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 675 1062 905 1116; x_wconf 75' lang='grc' dir='ltr'><em>ΞΕΝΟΣ,</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 942 1038 1264 1132; x_wconf 72' lang='grc' dir='ltr'><em>ΚΛΕΙΝΙΑΣ</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1298 1052 1488 1121; x_wconf 68' lang='grc' dir='ltr'><strong><em>ΚΡΗΣ,</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 431 1133 1352 1177; baseline 0.002 -2"><span class='ocrx_word' id='word_1_9' title='bbox 431 1133 776 1176; x_wconf 77' lang='grc' dir='ltr'><em>ΜΕΓΙΛΛΟΣ</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 805 1133 1352 1177; x_wconf 77' lang='grc' dir='ltr'><em>ΛΑΚΕΛΑιΜοΝιοΣ.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
